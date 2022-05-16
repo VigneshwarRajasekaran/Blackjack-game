@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+   
+   
+}
+div{
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    height: 450px;
+    width: 400px;
+    margin: auto;
+    background-image: url(bg.jpg);
+}
+h1{
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    color: goldenrod;
+}
+#message-el{
+    font-size: 30px;
+    color: antiquewhite;
+}
+#card-el{
+    font-size: 25px;
+    color: antiquewhite;
+}
+#sum-el{
+    font-size: 25px;
+    color: antiquewhite;
+}
+button{
+    width: 100px;
+height: 40px;
+color: black;
+background-color: goldenrod;
+border: none;
+border-radius: 5px;
+}
+
+
